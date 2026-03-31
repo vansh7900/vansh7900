@@ -5,16 +5,23 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 THIS FIXES THE ERROR
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v4
         with:
           github_user_name: vansh7900
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 REQUIRED
           target_branch: output
           build_dir: dist
