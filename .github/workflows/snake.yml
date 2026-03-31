@@ -15,12 +15,12 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@v3   # ✅ correct version
         with:
-          github_user_name: vansh7900
+          github_user_name: vansh7900   # ⚠️ your username
           outputs: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3   # ✅ correct version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: output
