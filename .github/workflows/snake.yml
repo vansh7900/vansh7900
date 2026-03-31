@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: vanshs7900
+          github_user_name: vansh7900
           outputs: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
