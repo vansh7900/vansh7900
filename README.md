@@ -43,7 +43,7 @@ phishing_detector/
 ## 🛠️ tools --version
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,java,kotlin,android,firebase,python,mysql,git,github,docker,kubernetes,terraform,helm" />
+  <img src="https://skillicons.dev/icons?i=linux,java,kotlin,azure,jenkins,firebase,python,mysql,git,github,docker,kubernetes,terraform,helm" />
 </p>
 
 ---
