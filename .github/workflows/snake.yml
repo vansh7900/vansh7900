@@ -22,6 +22,6 @@ jobs:
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 THIS FIXES ERROR
+          github_token: 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   # 🔥 THIS FIXES ERROR
           target_branch: output
           build_dir: dist
