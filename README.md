@@ -1,83 +1,90 @@
-<!-- 💻 KALI LINUX TERMINAL README -->
+<!-- 🌈 MODERN COLORFUL README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=root@kali:~#+whoami;Vansh+Sharma;Cybersecurity+Enthusiast;Android+Developer;AI+Security+Builder" />
-</h1>
+<h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
 
----
-
-<p align="left">
-<pre>
-root@kali:~# whoami
-vansh_sharma
-
-root@kali:~# uname -a
-Cybersecurity Enthusiast | DevSecOps Engineer | AI Builder
-
-root@kali:~# cat education.txt
-MCA @ Chandigarh University
-
-root@kali:~# cat current_focus.txt
-
-* AI Security
-* Ethical Hacking
-* DevOps Engineering
-* Reverse Engineering
-* Android Security Apps
-
-root@kali:~# ls projects/ </pre>
-
-</p>
-
----
-
-```bash id="k6z9hx"
-paca_ai_assistant/
-cybertips_app/
-rideplanner_app/
-phishing_detector/
-```
-
----
-
-## 🛠️ tools --version
+<h3 align="center">🚀 Cybersecurity Enthusiast | 🤖 AI Builder | 📱 Android Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,java,kotlin,azure,jenkins,firebase,python,mysql,git,github,docker,kubernetes,terraform,helm" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=24&width=600&lines=Cybersecurity+Engineer;AI+Security+Developer;Android+App+Builder;DevSecOps+Learner" />
 </p>
 
 ---
 
-## 📊 system_stats.sh
+## 🌟 About Me
+
+* 🎓 MCA Student @ Chandigarh University
+* 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+* 🤖 Building **AI-powered security tools**
+* 📱 Developing **Android apps using Kotlin & Firebase**
+* ⚡ Love working on **real-world security problems**
+
+---
+
+## 🚀 Featured Projects
+
+✨ **PACA AI Assistant**
+→ AI-powered Cybersecurity Assistant
+
+📱 **CyberTips App**
+→ Cybersecurity Awareness App (Firebase + Kotlin)
+
+🏍️ **RidePlanner App**
+→ Meetup & Ride Planning Android App
+
+🎯 **Phishing Detector**
+→ AI-based phishing detection system
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=linux,java,kotlin,python,firebase,mysql,azure,docker,kubernetes,terraform,git,github,jenkins" />
 </p>
 
 ---
 
-## 🐍 run snake.sh
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vansh7900/vansh7900/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🌐 connect.sh
+## 🏆 Achievements & Focus
 
-```bash id="y8r0zb"
-github    : https://github.com/vansh7900
-linkedin  : https://linkedin.com/
-instagram : https://instagram.com/pentestwithvansh
-email     : technicalvansh01@gmail.com
-```
+* 🧠 AI + Cybersecurity Projects
+* 🔍 Reverse Engineering & Malware Analysis
+* ☁️ Cloud & DevSecOps (Azure, Docker, Kubernetes)
+* 📱 Android Security Applications
 
 ---
 
-```diff id="5t4o03"
-+ STATUS: ROOT ACCESS GRANTED
-+ MODE: ETHICAL HACKER
-+ SYSTEM: SECURE 🔐
-```
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/vansh7900"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://instagram.com/pentestwithvansh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="mailto:technicalvansh01@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+## 🎨 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh7900&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## ✨ Fun Quote
+
+<p align="center">
+  <b>"Code. Secure. Repeat. 🚀"</b>
+</p>
+
+---
