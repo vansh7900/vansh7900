@@ -1,50 +1,72 @@
-<!-- 🌌 CLEAN CYBERPUNK README (FIXED) -->
+<!-- 💎 PORTFOLIO LEVEL CYBER README -->
 
-<!-- 🔥 HEADER -->
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=VANSH%20SHARMA&fontSize=45&fontColor=00f7ff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=Vansh%20Sharma&fontSize=45&fontColor=00f7ff"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;AI+Security+Builder;Android+Developer;DevSecOps+Explorer;Always+Learning+New+Things..." />
-</h1>
+<h1 align="center">Cybersecurity • AI • Android</h1>
+
+<p align="center">
+  Building secure systems, intelligent tools, and modern applications.
+</p>
 
 ---
 
-## ⚡ SYSTEM PROFILE
+## 🧠 About Me
 
-```yaml id="profile"
-name: Vansh Sharma
-role: Cybersecurity Enthusiast | AI Builder | Android Developer
-education: MCA @ Chandigarh University
-mission: Build secure & intelligent systems
-```
-
----
-
-## 🧠 CURRENT FOCUS
-
-```diff id="focus"
-+ AI Security Systems
-+ Ethical Hacking
-+ Reverse Engineering
-+ DevSecOps (Azure | Docker | Kubernetes)
-+ Android Apps (Kotlin + Firebase)
-```
+* 🎓 MCA @ Chandigarh University
+* 🔐 Cybersecurity & Ethical Hacking Enthusiast
+* 🤖 AI Security Builder
+* 📱 Android Developer (Kotlin + Firebase)
+* ☁️ DevSecOps (Azure, Docker, Kubernetes)
 
 ---
 
-## 🚀 PROJECTS
+## 🚀 Featured Projects
 
-* 🔐 **PACA AI Assistant** → AI-powered cybersecurity assistant
-* 📱 **CyberTips App** → Firebase-based awareness app
-* 🏍️ **RidePlanner App** → Ride meetup Android app
-* 🎯 **Phishing Detector** → AI-based phishing detection
+<p align="center">
+
+<a href="https://github.com/vansh7900/paca_ai_assistant">
+  <img src="https://via.placeholder.com/400x220/0f2027/00f7ff?text=PACA+AI+Assistant" width="400"/>
+</a>
+
+<a href="https://github.com/vansh7900/cybertips_app">
+  <img src="https://via.placeholder.com/400x220/2c5364/ff00ff?text=CyberTips+App" width="400"/>
+</a>
+
+<a href="https://github.com/vansh7900/rideplanner_app">
+  <img src="https://via.placeholder.com/400x220/000000/00ff9c?text=RidePlanner+App" width="400"/>
+</a>
+
+<a href="https://github.com/vansh7900/phishing_detector">
+  <img src="https://via.placeholder.com/400x220/ffffff/000000?text=Phishing+Detector" width="400"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠️ TECH STACK
+### 🔐 PACA AI Assistant
+
+AI-powered cybersecurity assistant for threat detection, guidance, and automation.
+
+### 📱 CyberTips App
+
+Cybersecurity awareness Android app built with Firebase and Kotlin.
+
+### 🏍️ RidePlanner App
+
+Meetup and ride planning app with modern UI and real-time features.
+
+### 🎯 Phishing Detector
+
+AI-based system to detect phishing attacks and malicious patterns.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,java,kotlin,python,firebase,mysql,azure,docker,kubernetes,terraform,git,github,jenkins" />
@@ -52,24 +74,16 @@ mission: Build secure & intelligent systems
 
 ---
 
-## 📊 SYSTEM STATS
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧬 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh7900&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 CONNECT
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/vansh7900"><img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/></a>
@@ -80,18 +94,13 @@ mission: Build secure & intelligent systems
 
 ---
 
-## ⚠️ FINAL SYSTEM STATUS
+## ⚡ Philosophy
 
-```diff id="status"
-+ SYSTEM: ONLINE
-+ SECURITY: ENABLED 🔐
-+ MODE: CYBERPUNK
-+ STATUS: BUILDING THE FUTURE 🚀
-```
+> Build secure. Think smart. Stay ahead.
 
 ---
 
-<!-- 🔥 FOOTER -->
+<!-- FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:2c5364&height=120&section=footer"/>
