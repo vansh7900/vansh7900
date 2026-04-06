@@ -1,72 +1,64 @@
-<!-- 💎 PORTFOLIO LEVEL CYBER README -->
+<!-- 🚨 INSANE CYBERPUNK README -->
 
-<!-- HEADER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=Vansh%20Sharma&fontSize=45&fontColor=00f7ff"/>
-</p>
-
-<h1 align="center">Cybersecurity • AI • Android</h1>
+<!-- 🔥 BANNER -->
 
 <p align="center">
-  Building secure systems, intelligent tools, and modern applications.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=VANSH%20SHARMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;AI+Security+Architect;Android+Developer;DevSecOps+Specialist;Building+Secure+Futures..." />
+</h1>
 
 ---
 
-## 🧠 About Me
-
-* 🎓 MCA @ Chandigarh University
-* 🔐 Cybersecurity & Ethical Hacking Enthusiast
-* 🤖 AI Security Builder
-* 📱 Android Developer (Kotlin + Firebase)
-* ☁️ DevSecOps (Azure, Docker, Kubernetes)
-
----
-
-## 🚀 Featured Projects
+## ⚡ DIGITAL IDENTITY
 
 <p align="center">
-
-<a href="https://github.com/vansh7900/paca_ai_assistant">
-  <img src="https://via.placeholder.com/400x220/0f2027/00f7ff?text=PACA+AI+Assistant" width="400"/>
-</a>
-
-<a href="https://github.com/vansh7900/cybertips_app">
-  <img src="https://via.placeholder.com/400x220/2c5364/ff00ff?text=CyberTips+App" width="400"/>
-</a>
-
-<a href="https://github.com/vansh7900/rideplanner_app">
-  <img src="https://via.placeholder.com/400x220/000000/00ff9c?text=RidePlanner+App" width="400"/>
-</a>
-
-<a href="https://github.com/vansh7900/phishing_detector">
-  <img src="https://via.placeholder.com/400x220/ffffff/000000?text=Phishing+Detector" width="400"/>
-</a>
-
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROLE-CYBER+ENGINEER-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI+SECURITY-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILDING-FUTURE-ffffff?style=for-the-badge&logo=vercel"/>
 </p>
 
 ---
 
-### 🔐 PACA AI Assistant
+## 🧠 SYSTEM CORE
 
-AI-powered cybersecurity assistant for threat detection, guidance, and automation.
-
-### 📱 CyberTips App
-
-Cybersecurity awareness Android app built with Firebase and Kotlin.
-
-### 🏍️ RidePlanner App
-
-Meetup and ride planning app with modern UI and real-time features.
-
-### 🎯 Phishing Detector
-
-AI-based system to detect phishing attacks and malicious patterns.
+```yaml id="core"
+name: Vansh Sharma
+education: MCA @ Chandigarh University
+specialization: Cybersecurity + AI Systems
+mission: Build. Break. Secure. Repeat.
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 PROJECT GRID
+
+<p align="center">
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=paca_ai_assistant&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=cybertips_app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=rideplanner_app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=phishing_detector&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ TECH ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,java,kotlin,python,firebase,mysql,azure,docker,kubernetes,terraform,git,github,jenkins" />
@@ -74,33 +66,62 @@ AI-based system to detect phishing attacks and malicious patterns.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LIVE SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect
+## 🧬 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh7900&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 NETWORK LINKS
 
 <p align="center">
   <a href="https://github.com/vansh7900"><img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://instagram.com/pentestwithvansh"><img src="https://img.shields.io/badge/Instagram-00ff9c?style=for-the-badge&logo=instagram"/></a>
-  <a href="mailto:technicalvansh01@gmail.com"><img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="mailto:technicalvansh01@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-## ⚡ Philosophy
+## 🐍 NEURAL NETWORK ACTIVITY
 
-> Build secure. Think smart. Stay ahead.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vansh7900/vansh7900/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-<!-- FOOTER -->
+## ⚠️ FINAL SYSTEM LOG
+
+```diff id="log"
++ INITIALIZING SECURITY PROTOCOLS...
++ LOADING AI MODULES...
++ ACCESS LEVEL: ROOT
++ STATUS: UNSTOPPABLE 🚀
+```
+
+---
+
+## 🧠 PHILOSOPHY
+
+<p align="center">
+  <i>"In a world of vulnerabilities, be the firewall."</i>
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:2c5364&height=120&section=footer"/>
