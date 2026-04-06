@@ -1,52 +1,64 @@
-<!-- 🌌 CYBERPUNK NEON README -->
+<!-- 🚨 INSANE CYBERPUNK README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Vansh+Sharma;Cybersecurity+Engineer;AI+Security+Builder;Android+Developer;DevSecOps+Explorer" />
-</h1>
+<!-- 🔥 BANNER -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00f7ff?style=for-the-badge&logo=ghost&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff00ff?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=VANSH%20SHARMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineer;AI+Security+Architect;Android+Developer;DevSecOps+Specialist;Building+Secure+Futures..." />
+</h1>
+
+---
+
+## ⚡ DIGITAL IDENTITY
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ROLE-CYBER+ENGINEER-ff00ff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FOCUS-AI+SECURITY-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILDING-FUTURE-ffffff?style=for-the-badge&logo=vercel"/>
 </p>
 
 ---
 
-## ⚡ SYSTEM PROFILE
+## 🧠 SYSTEM CORE
 
-```yaml id="cyberpunk-profile"
+```yaml id="core"
 name: Vansh Sharma
-role: Cybersecurity Enthusiast | AI Builder | Android Developer
 education: MCA @ Chandigarh University
-mission: Build secure & intelligent systems
+specialization: Cybersecurity + AI Systems
+mission: Build. Break. Secure. Repeat.
 ```
 
 ---
 
-## 🧠 CURRENT OPERATIONS
+## 🚀 PROJECT GRID
 
-```diff id="ops"
-+ AI Security Systems
-+ Ethical Hacking
-+ Reverse Engineering
-+ DevSecOps (Azure | Docker | Kubernetes)
-+ Android Security Apps (Kotlin + Firebase)
-```
+<p align="center">
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=paca_ai_assistant&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=cybertips_app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=rideplanner_app&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/vansh7900">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vansh7900&repo=phishing_detector&theme=tokyonight"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 PROJECT MATRIX
-
-```bash id="projects"
-> paca_ai_assistant      # AI-powered cybersecurity assistant
-> cybertips_app          # Awareness + Firebase Android app
-> rideplanner_app        # Meetup & ride planning system
-> phishing_detector      # AI-based phishing detection
-```
-
----
-
-## 🛠️ TECH STACK
+## 🛠️ TECH ARSENAL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,java,kotlin,python,firebase,mysql,azure,docker,kubernetes,terraform,git,github,jenkins" />
@@ -54,7 +66,7 @@ mission: Build secure & intelligent systems
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 📊 LIVE SYSTEM METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -63,18 +75,26 @@ mission: Build secure & intelligent systems
 
 ---
 
-## 🌐 NETWORK ACCESS
+## 🧬 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh7900&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 NETWORK LINKS
 
 <p align="center">
   <a href="https://github.com/vansh7900"><img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://instagram.com/pentestwithvansh"><img src="https://img.shields.io/badge/Instagram-00ff9c?style=for-the-badge&logo=instagram"/></a>
-  <a href="mailto:technicalvansh01@gmail.com"><img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="mailto:technicalvansh01@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-## 🐍 NEURAL ACTIVITY (CONTRIBUTIONS)
+## 🐍 NEURAL NETWORK ACTIVITY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vansh7900/vansh7900/output/github-contribution-grid-snake.svg" />
@@ -82,21 +102,29 @@ mission: Build secure & intelligent systems
 
 ---
 
-## ⚠️ TERMINAL OUTPUT
+## ⚠️ FINAL SYSTEM LOG
 
-```diff id="final"
-+ STATUS: SYSTEM ONLINE
-+ ACCESS: AUTHORIZED
-+ SECURITY: ENABLED 🔐
-+ SIGNAL: TRANSMITTING 🚀
+```diff id="log"
++ INITIALIZING SECURITY PROTOCOLS...
++ LOADING AI MODULES...
++ ACCESS LEVEL: ROOT
++ STATUS: UNSTOPPABLE 🚀
 ```
 
 ---
 
-## 🧬 FINAL SIGNAL
+## 🧠 PHILOSOPHY
 
 <p align="center">
-  <b>"Break systems. Understand them. Secure them."</b>
+  <i>"In a world of vulnerabilities, be the firewall."</i>
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:2c5364&height=120&section=footer"/>
 </p>
 
 ---
