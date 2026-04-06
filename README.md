@@ -1,80 +1,102 @@
-<!-- 💎 PREMIUM MINIMAL README -->
+<!-- 🌌 CYBERPUNK NEON README -->
 
-<h1 align="center">Vansh Sharma</h1>
-
-<p align="center">
-  Cybersecurity Enthusiast • AI Builder • Android Developer
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Vansh+Sharma;Cybersecurity+Engineer;AI+Security+Builder;Android+Developer;DevSecOps+Explorer" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/vansh7900">
-    <img src="https://img.shields.io/github/followers/vansh7900?label=Follow&style=social" />
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00f7ff?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI+SECURITY-00ff9c?style=for-the-badge"/>
 </p>
 
 ---
 
-## About
+## ⚡ SYSTEM PROFILE
 
-I am an MCA student at Chandigarh University with a strong focus on cybersecurity, AI-driven security systems, and modern application development.
-
-My work revolves around building practical solutions that combine **security, intelligence, and usability**.
-
----
-
-## Focus Areas
-
-* Cybersecurity & Ethical Hacking
-* AI in Security Systems
-* Android Development (Kotlin + Firebase)
-* DevSecOps & Cloud (Azure, Docker, Kubernetes)
-* Reverse Engineering & Malware Analysis
+```yaml id="cyberpunk-profile"
+name: Vansh Sharma
+role: Cybersecurity Enthusiast | AI Builder | Android Developer
+education: MCA @ Chandigarh University
+mission: Build secure & intelligent systems
+```
 
 ---
 
-## Selected Projects
+## 🧠 CURRENT OPERATIONS
 
-**PACA AI Assistant**
-AI-powered cybersecurity assistant designed to automate threat understanding and guidance.
-
-**CyberTips App**
-Android application focused on cybersecurity awareness using Firebase backend.
-
-**RidePlanner App**
-A modern Android app for organizing and managing ride meetups.
-
-**Phishing Detector**
-AI-based system for identifying phishing attempts and malicious patterns.
+```diff id="ops"
++ AI Security Systems
++ Ethical Hacking
++ Reverse Engineering
++ DevSecOps (Azure | Docker | Kubernetes)
++ Android Security Apps (Kotlin + Firebase)
+```
 
 ---
 
-## Tech Stack
+## 🚀 PROJECT MATRIX
 
-<p>
+```bash id="projects"
+> paca_ai_assistant      # AI-powered cybersecurity assistant
+> cybertips_app          # Awareness + Firebase Android app
+> rideplanner_app        # Meetup & ride planning system
+> phishing_detector      # AI-based phishing detection
+```
+
+---
+
+## 🛠️ TECH STACK
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,java,kotlin,python,firebase,mysql,azure,docker,kubernetes,terraform,git,github,jenkins" />
 </p>
 
 ---
 
-## GitHub Stats
+## 📊 SYSTEM ANALYTICS
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh7900&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh7900&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## Contact
+## 🌐 NETWORK ACCESS
 
-* GitHub: https://github.com/vansh7900
-* Instagram: https://instagram.com/pentestwithvansh
-* Email: [technicalvansh01@gmail.com](mailto:technicalvansh01@gmail.com)
+<p align="center">
+  <a href="https://github.com/vansh7900"><img src="https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://instagram.com/pentestwithvansh"><img src="https://img.shields.io/badge/Instagram-00ff9c?style=for-the-badge&logo=instagram"/></a>
+  <a href="mailto:technicalvansh01@gmail.com"><img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
 
 ---
 
-## Note
+## 🐍 NEURAL ACTIVITY (CONTRIBUTIONS)
 
-Focused on building secure, intelligent systems and continuously improving through hands-on projects and research.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vansh7900/vansh7900/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚠️ TERMINAL OUTPUT
+
+```diff id="final"
++ STATUS: SYSTEM ONLINE
++ ACCESS: AUTHORIZED
++ SECURITY: ENABLED 🔐
++ SIGNAL: TRANSMITTING 🚀
+```
+
+---
+
+## 🧬 FINAL SIGNAL
+
+<p align="center">
+  <b>"Break systems. Understand them. Secure them."</b>
+</p>
 
 ---
