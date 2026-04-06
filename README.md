@@ -74,13 +74,6 @@ mission: Build secure & intelligent systems
 
 ---
 
-## 🐍 NEURAL ACTIVITY (CONTRIBUTIONS)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vansh7900/vansh7900/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## ⚠️ TERMINAL OUTPUT
 
